@@ -1,0 +1,12 @@
+{
+  "name": "csce-security-form",
+  "version": "1.0.0",
+  "description": "A small local cybersecurity lab login form.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
